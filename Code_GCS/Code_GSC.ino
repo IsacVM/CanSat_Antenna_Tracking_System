@@ -5,8 +5,8 @@ int potpin = 0;  // Pin analógico al cual conectamos la señal de nuestro poten
 int val;    // variable que contendrá el valor leido en el pin del potenciómetro y posteriormente el valor que escribiremos al servomotor
 
 
-float elevacion=65;
-float azimut=34;
+float elevacion=60;
+float azimut=180;
 
 void setup() {
   // put your setup code here, to run once:
